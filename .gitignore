@@ -1,0 +1,87 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+__MACOSX
+.Trashes
+.Spotlight-V100
+.metadata_never_index
+
+# VS Code / edytory
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Jupyter / Notebook
+.ipynb_checkpoints
+
+# LaTeX build artefacts (książki/raporty)
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.blg
+*.bbl
+
+# R / statystyka
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user
+
+# Node / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Office / temp files
+~$*
+*.~lock.*
+Thumbs.db
+
+# Build / packaging
+*.class
+*.jar
+*.war
+*.ear
+
+# Archives / compressed
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+
+# Secrets / env files
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
