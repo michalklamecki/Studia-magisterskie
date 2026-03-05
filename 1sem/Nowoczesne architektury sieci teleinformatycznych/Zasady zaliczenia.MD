@@ -14,6 +14,7 @@
 - Prezentacja ma trwać 30 minut
 - Źródła i spis literatury są bardzo istotne!
 - Prezentacja i źródła mają zostać zamieszczone na e-portalu
+- Prezentacja na własnym sprzęcie
 ## Obecność na zajęciach
 - Możliwa jedna nieobecność nieusprawiedliwiona
 - Obecność jest obowiązkowa (na zajęciach z prezentacjami)
