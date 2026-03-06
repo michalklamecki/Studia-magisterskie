@@ -10,4 +10,5 @@
 - Pracujemy w grupach dwuosobowych
 - Obecność na zajęciach jest obowiązkowa
 - Na maila (zgodnie z zasadami ze strony) przesyłamy zadania. Przesyłają go obie osoby z grupy.
+ - Temat maila: `[zto][nr_indeksu][nr_tematu]`
 - Grupa J.
