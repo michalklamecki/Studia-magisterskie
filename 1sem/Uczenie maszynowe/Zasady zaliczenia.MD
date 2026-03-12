@@ -10,3 +10,6 @@
     - Projekt badawczy nad algorytmem (z możliwością napisania artykułu)
 - Na koniec odbędą się trzy spotkania w celu opisania działania tego projektu - opis projektu
 - 2 i 3 etap będzie mógł być robiony w grupach. Grupy zakładamy na eportalu i nawet jeśli robi ktoś sam to musi tam założyć grupę.
+
+## Pierwsze trzy laboratoria
+- Możliwe jest zwolnienie z testu na eportalu, ale trzeba zrobić trzy klasyfikatory na zbiorze danych titanic. Po zrobieniu wysłać to na maila.
