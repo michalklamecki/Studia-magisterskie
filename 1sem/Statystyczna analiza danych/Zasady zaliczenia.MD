@@ -7,6 +7,5 @@
 |------|---------------|
 | 31.03 | 2 plusy |
 
-
 # Laboratoria
 - Praca w grupach 2-3 osobowych.
