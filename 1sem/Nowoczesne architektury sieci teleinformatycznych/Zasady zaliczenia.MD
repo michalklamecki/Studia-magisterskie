@@ -9,10 +9,10 @@
 - Będzie oceniana aktywność na zajęciach, czyli warto zadawać pytania
 - Trzeba je potwierdzić na e-portalu
 ## Prezentacja
-- Temat prezentacji i termin będą losowane
+- Temat prezentacji i termin będą losowane - mi się wylosował 11 czerwca
 - Na zajęciach nr 2 będą możliwe zmiany tematów na te niewybrane
 - Prezentacja ma trwać 30 minut
-- Źródła i spis literatury są bardzo istotne!
+- Źródła i spis literatury są bardzo istotne! Mają być numery stron!!!
 - Prezentacja i źródła mają zostać zamieszczone na e-portalu
 - Prezentacja na własnym sprzęcie
 ## Obecność na zajęciach
